@@ -1,0 +1,7 @@
+C:\Users\ADMIN\RiderProjects\CreateCustomer-Eplus-Kiot\CreateCustomer-Eplus-Kiot\bin\Debug\CreateCustomer_Eplus_Kiot.exe
+C:\Users\ADMIN\RiderProjects\CreateCustomer-Eplus-Kiot\CreateCustomer-Eplus-Kiot\bin\Debug\CreateCustomer_Eplus_Kiot.pdb
+C:\Users\ADMIN\RiderProjects\CreateCustomer-Eplus-Kiot\CreateCustomer-Eplus-Kiot\obj\Debug\CreateCustomer-Eplus-Kiot.csproj.AssemblyReference.cache
+C:\Users\ADMIN\RiderProjects\CreateCustomer-Eplus-Kiot\CreateCustomer-Eplus-Kiot\obj\Debug\CreateCustomer-Eplus-Kiot.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\RiderProjects\CreateCustomer-Eplus-Kiot\CreateCustomer-Eplus-Kiot\obj\Debug\CreateCustomer-Eplus-Kiot.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\RiderProjects\CreateCustomer-Eplus-Kiot\CreateCustomer-Eplus-Kiot\obj\Debug\CreateCustomer_Eplus_Kiot.exe
+C:\Users\ADMIN\RiderProjects\CreateCustomer-Eplus-Kiot\CreateCustomer-Eplus-Kiot\obj\Debug\CreateCustomer_Eplus_Kiot.pdb
